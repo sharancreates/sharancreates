@@ -43,9 +43,8 @@ I build unique, utility-focused applications that solve real problems, prioritiz
 
 ### Featured Work & Research
 
-* 🔗 [**Project Name 1**](link) - A brief 1-sentence description of the utility-focused app or ML model.
-* 🔗 [**Project Name 2**](link) - A brief 1-sentence description of the RL environment or QML research.
-* 🔗 [**Project Name 3**](link) - A brief 1-sentence description of your cyber/forensics tooling.
+* [**Arogya**](https://arogya-hms-sharancreates.vercel.app/) - A modern hospital management system with FHIR/HL7 exports
+* [**ResuMatch AI**](https://resumatch-sharan.vercel.app/) - A NLP based Resume and JD matching platform (ATS Score checker)
 
 ---
 
