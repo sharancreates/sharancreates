@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A4A8A,100:7C3AED&height=230&section=header&text=Sharanya%20Nagar&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20·%20AI%2FML%20Researcher%20·%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=57&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A4A8A,100:7C3AED&height=230&section=header&text=Sharanya%20Nagar&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20·%20AI%2FML%20Engineer%20·%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=57&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Building+distributed+systems+at+scale+%F0%9F%8F%97%EF%B8%8F;Training+LLMs+via+SFT+%2B+REINFORCE+pipelines+%F0%9F%A4%96;HL7+v2+%26+FHIR+R4+healthcare+interoperability+%F0%9F%8F%A5;Researching+Explainable+AI+%26+Quantum+ML+%F0%9F%94%AC;100%25+encryption+before+database+serialization+%F0%9F%94%90;Reached+hackathon+finals+building+satellite+pipelines+%F0%9F%9B%B0%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -98,10 +98,10 @@ Adaptive cycle prediction with clinical AI and zero-knowledge privacy
 
 `Python` `scikit-learn` `Flask` `Redis` `PostgreSQL`
 
-- **±1.5 day** prediction error — **45% better** than 28-day static models
-- **100%** records encrypted pre-serialization (100k PBKDF2 iterations)
-- Isolation Forest anomaly detection for PCOS, PMDD, Endometriosis
-- **~30%** API latency reduction via PostgreSQL connection pooling
+- **±2.6** day RMSE with R² = 0.66 — Random Forest trained on **12,000** clinical samples
+- 100% records encrypted pre-serialization **(100k PBKDF2 iterations)**
+- Isolation Forest anomaly detection for symptom spikes; rule-based insights for PMOS, PMDD, Endometriosis
+- PostgreSQL connection pooling (10 + 20 overflow) with indexed query paths (user_id, log_date)
 
 </td>
 </tr>
